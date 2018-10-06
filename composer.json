@@ -1,5 +1,5 @@
 {
-  "name": "payment",
+  "name": "perfect-network/payment",
   "description": "支付SDK",
   "keywords": [
     "Pay sdk"
